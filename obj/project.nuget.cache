@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EAbcg1uqc7w=",
+  "success": true,
+  "projectFilePath": "/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/AtividadeAulaEstruturado.csproj",
+  "expectedPackageFiles": [
+    "/home/rodrigo/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
