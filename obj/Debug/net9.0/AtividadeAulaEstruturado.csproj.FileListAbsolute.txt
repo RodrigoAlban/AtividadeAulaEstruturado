@@ -1,0 +1,15 @@
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/AtividadeAulaEstruturado.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/AtividadeAulaEstruturado.AssemblyInfoInputs.cache
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/AtividadeAulaEstruturado.AssemblyInfo.cs
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/AtividadeAulaEstruturado.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/AtividadeAulaEstruturado.sourcelink.json
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/bin/Debug/net9.0/AtividadeAulaEstruturado
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/bin/Debug/net9.0/AtividadeAulaEstruturado.deps.json
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/bin/Debug/net9.0/AtividadeAulaEstruturado.runtimeconfig.json
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/bin/Debug/net9.0/AtividadeAulaEstruturado.dll
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/bin/Debug/net9.0/AtividadeAulaEstruturado.pdb
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/AtividadeAulaEstruturado.dll
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/refint/AtividadeAulaEstruturado.dll
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/AtividadeAulaEstruturado.pdb
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/AtividadeAulaEstruturado.genruntimeconfig.cache
+/home/rodrigo/Documents/UTFPR/OrientacaoObjetos/AtividadeAulaEstruturado/obj/Debug/net9.0/ref/AtividadeAulaEstruturado.dll
